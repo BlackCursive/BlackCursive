@@ -28,7 +28,7 @@
 ![Synology](https://img.shields.io/static/v1?style=for-the-badge&message=Synology&color=222222&logo=Synology&logoColor=B5B5B6&label=)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Education 🎓
+## Education 🎓
 
 | Degree                | Major          | School                          |
 | :---------------------: | :--------------: | :------------------------------: |
