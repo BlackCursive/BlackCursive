@@ -6,14 +6,14 @@
 - [BlackCursive/civilservicenyc](https://www.civilservicenyc.com) - Applicant information for NYC Civil Service Exams ( ⭐ [NYC Open Data Project Gallery](https://opendata.cityofnewyork.us/projects/) )
 - [BlackCursive/Data_Analysis_NYPD_2019](https://github.com/BlackCursive/Data_Analysis_NYPD_2019) - Data Analysis of NYPD Arrests for 2019
 
-## Programming Tools
+## Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge&logoColor=white)
 ![Flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=for-the-badge&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Data Analysis Tools
+## Data Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
