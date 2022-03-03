@@ -6,7 +6,7 @@
 - [BlackCursive/civilservicenyc](https://www.civilservicenyc.com) - Applicant information for NYC Civil Service Exams ( ⭐ [NYC Open Data Project Gallery](https://opendata.cityofnewyork.us/projects/) )
 - [BlackCursive/Data_Analysis_NYPD_2019](https://github.com/BlackCursive/Data_Analysis_NYPD_2019) - Data Analysis of NYPD Arrests for 2019
 
-## Languages
+## Programming Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge&logoColor=white)
 ![Flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=for-the-badge&logoColor=white)
@@ -19,7 +19,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-## Environments I Work With
+## Environments
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
