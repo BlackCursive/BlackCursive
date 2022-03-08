@@ -3,7 +3,7 @@
 
 ### My latest projects 👨🏿
 
-- [BlackCursive/civilservicenyc](https://www.civilservicenyc.com) - Applicant information for NYC Civil Service Exams ( ⭐ [NYC Open Data Project Gallery](https://opendata.cityofnewyork.us/projects/) )
+- [www.civilservicenyc.com](https://www.civilservicenyc.com) - Applicant information for NYC Civil Service Exams ( ⭐ [NYC Open Data Project Gallery](https://opendata.cityofnewyork.us/projects/) )
 - [BlackCursive/Data_Analysis_NYPD_2019](https://github.com/BlackCursive/Data_Analysis_NYPD_2019) - Data Analysis of NYPD Arrests for 2019
 
 ## Programming ⌨️
