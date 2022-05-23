@@ -4,6 +4,7 @@
 ### My latest projects 👨🏿
 
 - [www.civilservicenyc.com](https://www.civilservicenyc.com) - Applicant information for NYC Civil Service Exams ( ⭐ [NYC Open Data Project Gallery](https://opendata.cityofnewyork.us/projects/) )
+- [Fujifilm Model - Exiftool](https://github.com/BlackCursive/fujifilm-profile-exiftool) - Convert Fujifilm RAW files in order to use newer film simulations on older camera bodies
 - [BlackCursive/Data_Analysis_NYPD_2019](https://github.com/BlackCursive/Data_Analysis_NYPD_2019) - Data Analysis of NYPD Arrests for 2019
 
 ## Programming ⌨️
