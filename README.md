@@ -1,7 +1,11 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&color=%23000000&size=40&duration=10000&center=true&vCenter=true&lines=B+l+a+c+k_C+u+r+s+i+v+e"></p>
 <h2 align="center">Lifelong learning is the ongoing, voluntary, and self-motivated pursuit of knowledge for either personal or professional reasons.</h2>
 
-### My latest projects 👨🏿
+### About Me 👨🏿
+Creator of Black_Cursive
+I have a background in information technology, music production and photography. Also, a solid belief in equitable access to clear information in order to create opportunities for change. Lastly, I am currently employed with the City of New York.
+
+### My latest projects
 
 - [www.civilservicenyc.com](https://www.civilservicenyc.com) - Applicant information for NYC Civil Service Exams ( ⭐ [NYC Open Data Project Gallery](https://opendata.cityofnewyork.us/projects/) )
 - [Fujifilm Model - Exiftool](https://github.com/BlackCursive/fujifilm-profile-exiftool) - Convert Fujifilm RAW files in order to use newer film simulations on older camera bodies
@@ -11,8 +15,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge&logoColor=white)
 ![Flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=for-the-badge&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Data Analytics 📊
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
