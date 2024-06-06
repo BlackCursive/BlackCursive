@@ -2,8 +2,8 @@
 <h2 align="center">Lifelong learning is the ongoing, voluntary, and self-motivated pursuit of knowledge for either personal or professional reasons.</h2>
 
 ### About Me 👨🏿
-Creator of Black_Cursive
-I have a background in information technology, music production and photography. Also, a solid belief in equitable access to clear information in order to create opportunities for change. Lastly, I am currently employed with the City of New York.
+- Creator of Black_Cursive.
+- I have a background in information technology, music production and photography. A solid belief in equitable access to clear information in order to create opportunities for change. Lastly, I am currently employed with the City of New York.
 
 ### My latest projects
 
@@ -43,5 +43,8 @@ I have a background in information technology, music production and photography.
 | Associate Degree      |  Network Administration and Security       | LaGuardia CC, CUNY        |
 
 ## Contact 📧
-
 You can reach me at [info@blackcursive.org](info@blackcursive.org)
+
+## Metrics 📊
+![Metrics](https://beta-metrics.lecoq.io/blackcursive?template=classic&base.activity=0&base.community=0&base.metadata=0&lines=1&repositories=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&repositories=false&repositories.featured=civilservicenyc%2C%20fujifilm-profile-exiftool%2C%20mpckitcreator&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&config.timezone=America%2FNew_York)
+
